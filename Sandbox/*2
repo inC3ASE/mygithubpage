@@ -1,0 +1,70 @@
+'//System/Library/Sandbox/' 'source rootless.conf'
+
+-bash: /Applications/App: No such file or directory
+-bash: /Applications/Automator.app: is a directory
+-bash: /Applications/Calculator.app: is a directory
+-bash: /Applications/Calendar.app: is a directory
+-bash: /Applications/Chess.app: is a directory
+-bash: /Applications/Contacts.app: is a directory
+-bash: /Applications/Dashboard.app: is a directory
+-bash: /Applications/Dictionary.app: is a directory
+-bash: /Applications/DVD: No such file or directory
+-bash: /Applications/FaceTime.app: is a directory
+-bash: /Applications/Font: No such file or directory
+-bash: /Applications/Game: No such file or directory
+-bash: /Applications/Image: No such file or directory
+-bash: /Applications/Launchpad.app: is a directory
+-bash: /Applications/Mail.app: is a directory
+-bash: /Applications/Maps.app: is a directory
+-bash: /Applications/Messages.app: is a directory
+-bash: /Applications/Mission: No such file or directory
+-bash: /Applications/Notes.app: is a directory
+-bash: /Applications/Photo: No such file or directory
+-bash: /Applications/Photos.app: is a directory
+-bash: /Applications/Preview.app: is a directory
+-bash: /Applications/QuickTime: No such file or directory
+-bash: /Applications/Reminders.app: is a directory
+-bash: /Applications/Safari.app: is a directory
+-bash: /Applications/Stickies.app: is a directory
+-bash: /Applications/System: No such file or directory
+-bash: /Applications/TextEdit.app: is a directory
+-bash: /Applications/Time: No such file or directory
+-bash: /Applications/Utilities/Activity: No such file or directory
+-bash: /Applications/Utilities/AirPort: No such file or directory
+-bash: /Applications/Utilities/Audio: No such file or directory
+-bash: /Applications/Utilities/Bluetooth: No such file or directory
+-bash: /Applications/Utilities/Boot: No such file or directory
+-bash: /Applications/Utilities/ColorSync: No such file or directory
+-bash: /Applications/Utilities/Console.app: is a directory
+-bash: /Applications/Utilities/Digital: No such file or directory
+-bash: /Applications/Utilities/Disk: No such file or directory
+-bash: /Applications/Utilities/Feedback: No such file or directory
+-bash: /Applications/Utilities/Grab.app: is a directory
+-bash: /Applications/Utilities/Grapher.app: is a directory
+-bash: /Applications/Utilities/Keychain: No such file or directory
+-bash: /Applications/Utilities/Migration: No such file or directory
+-bash: /Applications/Utilities/Script: No such file or directory
+-bash: /Applications/Utilities/System: No such file or directory
+-bash: /Applications/Utilities/Terminal.app: is a directory
+-bash: /Applications/Utilities/VoiceOver: No such file or directory
+-bash: /Library/Preferences/SystemConfiguration/com.apple.Boot.plist: Permission denied
+-bash: /System: is a directory
+-bash: Compatibility.bundle: command not found
+-bash: booter: command not found
+-bash: Compatibility.bundle: command not found
+-bash: /System/Library/CoreServices/RawCamera.bundle: is a directory
+-bash: Compatibility.bundle: command not found
+-bash: /System/Library/Extensions/ALF.kext: is a directory
+-bash: UpdateSettings: command not found
+-bash: Compatibility.bundle: command not found
+-bash: Compatibility.bundle: command not found
+-bash: /bin: is a directory
+-bash: dyld: command not found
+-bash: /sbin: is a directory
+-bash: /usr: is a directory
+-bash: Compatibility.bundle: command not found
+-bash: Compatibility.bundle: command not found
+-bash: Compatibility.bundle: command not found
+-bash: /etc: is a directory
+-bash: /tmp: is a directory
+-bash: /var: is a directory
