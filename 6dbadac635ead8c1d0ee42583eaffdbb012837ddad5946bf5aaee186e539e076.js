@@ -1,0 +1,2 @@
+// Copyright 2014 Apple Inc.  All Rights Reserved.
+new ReverseTemplateList([new ReverseTemplate("ritzcarlton.com",function(e){return/Reservation Cancellation/.test(e.subject)},function(e){var a="en_US",n={};n.emailTitelCancellation=/Reservation Cancellation/,n.cancelReservationId=/Reservation cancelled\: (.+)/,n.cancelCheckInDate=/Check-in\: (.+)/,n.cancelCheckOutDate=/Check-out\: (.+)/,n.cancelGuestName=/Dear (.+)\,/,n.cancelHotelName=/Your hotel\: (.+)/;var t=loadHelper("ritzcarlton.com.js");return t(e,a,n)},"0/1/2/3/4/5/6/5/7/7/7/7/4/8/9/695/779/782","SGceebc109")]);

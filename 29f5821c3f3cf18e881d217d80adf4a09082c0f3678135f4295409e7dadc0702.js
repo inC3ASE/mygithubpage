@@ -1,0 +1,2 @@
+// Copyright 2014 Apple Inc.  All Rights Reserved.
+new ReverseTemplateList([new ReverseTemplate("ticketmaster.co.uk-confirmation-en",function(e){return/^Ticket Confirmation/.test(e.subject)},function(e){if(!/^Ticket Confirmation/.test(e.subject))return CONTINUE;var t={};t.order="Order for",t.total="Total Charge",t.location="Seat location",t.purchase="this purchase is";var r="en_GB",n=loadHelper("ticketmaster.com-en_GB-confirmation-skeleton.js");return n(e,r,t)},"0/1/2/3/4/5/6/5/7/7/7/7/4/8/9/1380/1466/1467","SG373a7f2d")]);

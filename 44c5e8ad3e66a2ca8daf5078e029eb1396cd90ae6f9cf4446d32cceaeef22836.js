@@ -1,0 +1,2 @@
+// Copyright 2014 Apple Inc.  All Rights Reserved.
+new ReverseTemplateList([new ReverseTemplate("lufthansa.com-check-in-en",function(e){return/is now ready for Check-in$/.test(e.subject)},function(e){if(/is now ready for Check-in$/.test(e.subject)){var n="en_GB",t={};t.name=" Passenger ";var s=loadHelper("lufthansa.com-check-in-skeleton.js");return s(e,n,t)}},"0/1/2/3/4/5/6/5/7/7/7/7/4/8/9/248/522/532","SG8189270b")]);
