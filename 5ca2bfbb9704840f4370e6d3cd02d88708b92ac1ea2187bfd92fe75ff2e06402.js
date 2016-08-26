@@ -1,0 +1,2 @@
+// Copyright 2014 Apple Inc.  All Rights Reserved.
+new ReverseTemplateList([new ReverseTemplate("ticketmaster.com-confirmation-en_US-alt",function(e){return/^Your\s+Ticketmaster\s+Order\s+\(.*\)/.test(e.subject)},function(e){if(/^Your\s+Ticketmaster\s+Order\s+\(.*\)/.test(e.subject)){var t={},r="en_US",s=loadHelper("ticketmaster.com-confirmation-en-skeleton-alt.js");return s(e,r,t)}},"0/1/2/3/4/5/6/5/7/7/7/7/4/8/9/1380/1466/1470","SG66d56929")]);

@@ -1,0 +1,2 @@
+// Copyright 2014 Apple Inc.  All Rights Reserved.
+new ReverseTemplateList([new ReverseTemplate("alitalia.com-itinerary-en",function(e){return/Booking summary/.test(e.subject)},function(e){if(/Booking summary/.test(e.subject)){var t="en_US",r={};r.passengers="Passengers data:",r.ticketNumber="Ticket number:",r.departure="Outbound",r.reservationId="BOOKING CODE";var a=loadHelper("alitalia.com-itinerary-skeleton.js");return a(e,t,r)}},"0/1/2/3/4/5/6/5/7/7/7/7/4/8/9/248/348/355","SG7b03c502")]);
