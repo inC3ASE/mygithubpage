@@ -1,0 +1,2 @@
+// Copyright 2014 Apple Inc.  All Rights Reserved.
+new ReverseTemplateList([new ReverseTemplate("ticketmaster.com.au-reminder-en_AU",function(e){return/^Event Reminder/.test(e.subject)},function(e){if(/^Event Reminder/.test(e.subject)){var t="en_AU",n={};n.name="Hi",n.when="When",n.where="Where";var r=loadHelper("ticketmaster.com-reminder-skeleton.js");return r(e,t,n)}},"0/1/2/3/4/5/6/5/7/7/7/7/4/8/9/1380/1466/1476","SG05c2fdbe")]);

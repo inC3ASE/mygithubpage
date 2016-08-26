@@ -1,0 +1,2 @@
+// Copyright 2014 Apple Inc.  All Rights Reserved.
+new ReverseTemplateList([new ReverseTemplate("fnactickets.com-confirmation-en",function(e){return/^Confirmation of your order/.test(e.subject)},function(e){if(/^Confirmation of your order/.test(e.subject)){var t={};t.price="total price of",t.details="Detail of your tickets",t.number="Transaction number",t.for="fo",t.the="le",t.event="Event(s)";var n="en_GB",r=loadHelper("fnactickets.com-confirmation-skeleton.js");return r(e,n,t)}return CONTINUE},"0/1/2/3/4/5/6/5/7/7/7/7/4/8/9/1380/1429/1430","SG2cd06ad1")]);
